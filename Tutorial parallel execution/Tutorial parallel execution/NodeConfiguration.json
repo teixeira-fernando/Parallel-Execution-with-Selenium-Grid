@@ -1,0 +1,38 @@
+{
+  "capabilities": [
+    {
+      "browserName": "firefox",
+      "platform": "WINDOWS",
+      "maxInstances": 5
+    },
+    {
+      "browserName": "chrome",
+      "platform": "WINDOWS",
+      "maxInstances": 5
+    },
+    {
+      "browserName": "opera",
+      "platform": "WINDOWS",
+      "maxInstances": 5
+    },
+    {
+      "browserName": "internet explorer",
+      "platform": "WINDOWS",
+      "maxInstances": 5
+    }
+  ],
+  "configuration": {
+    "nodeTimeout": 120,
+
+    "hubPort": 4444,
+    "hubHost": "localhost",
+
+    "nodePolling": 2000,
+
+    "registerCycle": 10000,
+    "register": true,
+    "cleanUpCycle": 2000,
+    "timeout": 30000,
+    "maxSession": 5,
+  }
+}

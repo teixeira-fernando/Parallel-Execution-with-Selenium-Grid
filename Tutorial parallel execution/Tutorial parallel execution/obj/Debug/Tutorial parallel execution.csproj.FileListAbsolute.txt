@@ -1,0 +1,16 @@
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\Tutorial parallel execution.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\Tutorial parallel execution.pdb
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\nunit.framework.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\WebDriver.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\nunit.framework.pdb
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\nunit.framework.xml
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\WebDriver.xml
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\obj\Debug\Tutorial parallel execution.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\obj\Debug\Tutorial parallel execution.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\obj\Debug\Tutorial parallel execution.pdb
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\nunit.engine.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\nunit.engine.api.dll
+C:\Users\Fernando\Desktop\Material da área de Testes\Selenium CrossbrowserTesting\Tutorial parallel execution\Tutorial parallel execution\bin\Debug\Mono.Cecil.dll
