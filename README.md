@@ -20,5 +20,5 @@ https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities#read-write-capab
 Command to initialize the hub: 
 java -jar selenium-server-standalone-3.12.0.jar -role hub
 
-Command to create a node that supports Chome, Firefox, IE and Opera:
-java -jar selenium-server-standalone-3.12.0.jar -role node -hub http://localhost:4444/grid/register -browser "browserName=firefox, maxInstances=10, platform=ANY, seleniumProtocol=WebDriver" -browser "browserName=internet explorer, version=11, platform=WINDOWS, maxInstances=10"-browser "browserName=operablink, platform=WINDOWS, maxInstances=10"
+Command to create a node that supports Chrome, Firefox, IE and Opera:
+java -jar selenium-server-standalone-3.12.0.jar -role node -hub http://localhost:4444/grid/register -browser "browserName=firefox, maxInstances=10, platform=ANY, seleniumProtocol=WebDriver, version=ANY" -browser "browserName=internet explorer, version=11, platform=WINDOWS, maxInstances=10" -browser "browserName=operablink, platform=WINDOWS, maxInstances=10, version=ANY" -browser "browserName=chrome, platform=WINDOWS, maxInstances=10, version=ANY"
